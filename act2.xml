@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type = "text/css" href="sample.css"?>
+
+
+<students>
+
+    <student id= "2010100048">
+    <name>Cris Dela Cruz</name>
+    <birthday>January 25,1984</birthday>
+    <course>BSIT</course>
+    </student>
+
+    <student id= "2010100049">
+    <name>Armando Tiongson</name>
+    <birthday>April 2, 1984</birthday>
+    <course>BSIT</course>
+    </student>
+
+    <student id= "2010100050">
+    <name>Oliver Borlongan</name>
+    <birthday>November 25, 1984</birthday>
+    <course>BSIT</course>
+    </student>
+
+    <student id= "2010100051">
+    <name>John Ramos</name>
+    <birthday>January 25, 1984</birthday>
+    <course>BSIT</course>
+    </student>
+
+</students>
